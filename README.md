@@ -1,2 +1,2 @@
 # Project-Sosho
-Improving case development
+An experiment to improve case development and research
